@@ -18,3 +18,5 @@ From there the code can be run by running the runner.py file.
 ```
 python runner.py
 ```
+
+Settings for Operating system and which browser to use are available in settings.json. 
