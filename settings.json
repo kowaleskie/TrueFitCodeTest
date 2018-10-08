@@ -3,5 +3,5 @@
   "_comment2": "browser: \" chrome\", \"firefox\"  or \"edge\" ",
   "_comment3": "Will default to Chrome on mac if any errors",
   "os": "mac",
-  "browser": "chrome",
+  "browser": "chrome"
 }
