@@ -24,10 +24,14 @@ class TestRunner():
 
 
 class MakeDriver():
+    """"
+    Configures the browser to use from settings in settings.json
+    """
     def __init__(self):
         with open('settings.json') as f:
             settings = json.load(f)
         os = settings["os"]
+
 
         try:
             if settings['browser'].lower() == "chrome":
