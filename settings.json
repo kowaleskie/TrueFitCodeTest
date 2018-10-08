@@ -1,0 +1,8 @@
+{
+  "_comment": "os :\"windows\", \"mac\", or \"linux\"",
+  "_comment2": "browser: \" chrome\", \"firefox\"  or \"edge\" ",
+  "_comment3": "Will default to Chrome on mac if any errors",
+  "os": "windows",
+  "browser": "chrome",
+  "loop": "1"
+}
